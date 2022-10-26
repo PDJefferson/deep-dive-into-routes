@@ -32,7 +32,6 @@ const QuoteList = (props) => {
     //   `${location.pathname}?sort=${isSortingAscending ? "desc" : "asc"}`
     // );
 
-    //using location to change the currently loaded page
   };
   return (
     <Fragment>
